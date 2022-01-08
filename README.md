@@ -1,4 +1,4 @@
-### don't use npm start immediately you need first to install chat engine dependency with the blow command
+###if you want to follow along and build it yourself don't use npm start immediately you need first to install chat engine dependency with the blow command
  
  npm install react-chat-engine
  
